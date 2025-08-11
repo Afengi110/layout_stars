@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["src/stars__star.css"],"sourcesContent":[".stars__star {\n  height: 16px;\n  width: 16px;\n  margin: 0 2px;\n  background-image: url(./images/star.svg);\n  background-repeat: no-repeat;\n}\n"],"names":[],"version":3,"file":"index.1252e950.css.map","sourceRoot":"/__parcel_source_root/"}
